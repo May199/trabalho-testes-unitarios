@@ -41,6 +41,7 @@
 - #### Matheus Rodrigues
 - #### Rafael Tavares
 - #### Dante Dantas
+- #### João Monteiro 
 
 ### Fonte
 > https://github.com/rafaelcbm/unit-test-class
